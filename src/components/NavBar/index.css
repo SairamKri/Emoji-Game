@@ -1,0 +1,51 @@
+/* Write your code here. */
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff33;
+  height: 20%;
+  background-size: cover;
+}
+
+@media screen (min-width: 768px) {
+  .navbar-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+.logo-tagline-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-image {
+  padding: 15px;
+  height: 90px;
+  width: 100px;
+}
+
+.game-name {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 0px;
+  margin-bottom: 10px;
+}
+
+.score-heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 400;
+  padding: 20px;
+}
+
+.score-card-container {
+  display: flex;
+  flex-direction: row;
+}
