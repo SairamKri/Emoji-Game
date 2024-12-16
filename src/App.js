@@ -4,7 +4,7 @@ import './App.css'
 
 const emojisList = [
   {
-    id: 0,
+    id: 00,
     emojiName: 'Face with stuck out tongue',
     emojiUrl:
       'https://assets.ccbp.in/frontend/react-js/face-with-stuck-out-tongue-img.png',
