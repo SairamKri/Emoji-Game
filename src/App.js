@@ -10,7 +10,7 @@ const emojisList = [
       'https://assets.ccbp.in/frontend/react-js/face-with-stuck-out-tongue-img.png',
   },
   {
-    id: 1,
+    id: 001,
     emojiName: 'Face with head bandage',
     emojiUrl:
       'https://assets.ccbp.in/frontend/react-js/face-with-head-bandage-img.png',
